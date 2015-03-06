@@ -1,0 +1,2 @@
+2014-03-14
+This morning I studied a Chrome Extension "Google Plus Share". I found It's very simple. It can do it by a url that Google Plus provide: https://plus.google.com/share?url=%your url%. Later, I found the url of sharing to Sina Weibo: http://service.weibo.com/share/share.php?url=http://www.baidu.com. So I can use it to develop an extension for sharing to Sina Weibo for myself.

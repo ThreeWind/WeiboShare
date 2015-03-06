@@ -1,0 +1,17 @@
+{
+   "browser_action": {
+      "default_icon": "sinaweibo48.png",
+      "default_popup": "popup.html",
+      "default_title": "Sina Weibo Share"
+   },
+   "icons": {
+      "16": "sinaweibo16.png",
+      "48": "sinaweibo48.png",
+      "128": "sinaweibo128.png"
+   },
+   "description": "Share any webpage on your Sina weibo",
+   "manifest_version": 2,
+   "name": "Share on Sina Weibo",
+   "permissions": [ "tabs" ],
+   "version": "1.0"
+}
